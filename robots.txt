@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vlecocq-psy.fr/sitemap.xml
